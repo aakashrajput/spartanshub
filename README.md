@@ -1,0 +1,2 @@
+# spartanshub
+Spartans Hub Website
